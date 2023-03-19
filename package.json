@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node index.js",
     "server": "nodemon index.js",
-    "dev": "npm staart"
+    "dev": "npm start"
   },
   "author": "",
   "license": "ISC",
